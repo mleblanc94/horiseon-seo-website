@@ -1,3 +1,5 @@
+/* CSS universal selector and body tag to apply to whole page */
+
 * {
     box-sizing: border-box;
     padding: 0;
