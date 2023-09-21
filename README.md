@@ -11,15 +11,17 @@
 ## Installation
 
 - No installation is required, just use the URL as it is already available using GitHub Pages
+- GitHub Pages URL: https://mleblanc94.github.io/horiseon-seo-website
 
 
 ## Usage
 
 - The use of this website is to let customers know what Horiseon SEO Website can do to help their business grow.
 
-![Alt text](./Develop/assets/images/website-top.png)
-![Alt text](./Develop/assets/images/website-middle.png)
-![Alt text](./Develop/assets/images/website-bottom.png)
+![image](https://github.com/mleblanc94/horiseon-seo-website/assets/60248680/5fb38068-cd40-42dc-b052-272c540ea960)
+![image](https://github.com/mleblanc94/horiseon-seo-website/assets/60248680/ffd2c2da-ea44-4cc4-aa34-effd8551535f)
+![image](https://github.com/mleblanc94/horiseon-seo-website/assets/60248680/7291d329-f6c8-4199-91e7-ab98738b23b5)
+![image](https://github.com/mleblanc94/horiseon-seo-website/assets/60248680/ff9df766-ffb1-42f8-b404-114dd2574481)
 
 - Clicking on the links in the nav bar will take a user to that place on the website.
 - The rest of the page is static information
